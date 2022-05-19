@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/drawable-v24/background_no.xml" value="0.1175" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/drawable-v24/rounded_corner12.xml" value="0.2505" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.227" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/layout/activity_assistant.xml" value="0.22554347826086957" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/layout/dialog_log_out.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/layout/dialog_saved.xml" value="0.2427536231884058" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/layout/item_poster_list.xml" value="0.2346014492753623" />
+        <entry key="..\:/AndroidProjects/Modul6Lesson6AndroidNetworking/app/src/main/res/layout/item_rv.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
